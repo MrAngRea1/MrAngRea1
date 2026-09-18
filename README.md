@@ -6,7 +6,7 @@ In hacker circles, my alias is `Zero` | The student ID is `6811704177362`
 Welcome to my GitHub profile - [@MrAngRea1](https://github.com/MrAngRea1). I'm a student who loves learning how things work, from websites to AI to cybersecurity.
 
 ---
-<img align="right" alt="Avatar" width="180" style="border-radius:50%; object-fit:cover;" src="https://mra.free.nf/assets/avatar.png">
+<img align="right" alt="Avatar" width="180" src="https://mra.free.nf/assets/avatar.png">
 
 ### 🔭 What I'm into
 
